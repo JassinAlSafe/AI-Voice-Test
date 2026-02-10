@@ -1,7 +1,7 @@
 
 import { GoogleGenAI, Modality } from "@google/genai";
 
-const BARRY_WHITE_STYLE_PROMPT = "Embody the voice of a soul legend at its absolute deepest. The vocal register should be a profound basso profundo, the lowest possible human male vocal range, resonating directly from the chest with a powerful, warm vibration. The cadence is slow, deliberate, and impeccably rhythmic. The texture is pure, smooth velvet. Crucially, the voice should sound as if recorded in a large, softly lit studio, creating a natural, subtle reverb and a whisper of echo that adds a spacious, atmospheric, and intimate quality. Infuse the delivery with confident, romantic charm and a gentle, smoky rasp for emphasis. The overall tone is one of effortless cool and profound soulfulness.";
+const BARRY_WHITE_STYLE_PROMPT = "Create a voice of impossible depth and soul. The vocal register is an extreme basso profundo, resonating with a sub-harmonic, chest-vibrating power that feels both immense and intimate. The cadence is slow and magnetic. The texture is flawless, smooth velvet. The recording environment is crucial: imagine speaking in a vast, empty concert hall at midnight. This should create a rich, pronounced reverb and a distinct but gentle echo that envelops every word, giving it an epic, atmospheric quality. The delivery must carry a confident, romantic charm, with a hint of a smoky rasp. The overall effect is the voice of a true soul legend, amplified by a cathedral-like acoustic space.";
 
 /**
  * Generates audio from text using Gemini, styled after Barry White.
