@@ -32,6 +32,9 @@ const Instructions: React.FC = () => {
            <li>
             <strong>The Iapetus Voice:</strong> This experience uses the 'Iapetus' voice model, which provides a deep, resonant tone suitable for handling the bass instructions without distortion.
           </li>
+          <li>
+            <strong>Acoustic Ambiance:</strong> The prompt now instructs the AI to simulate a recording studio environment, adding a touch of natural reverb and echo for that classic, atmospheric sound.
+          </li>
         </ul>
       </div>
 
